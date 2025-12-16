@@ -1,75 +1,29 @@
-# 👋 Hi, I'm Gia 👨‍💻
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luongtangia&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luongtangia&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongtangia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
-🚀 **Full-stack Web Developer** | ⚛️ React | 🧩 NestJS | 🏗 Product-driven mindset
+<!-- Tech Stack -->
+<div align="center">
 
-> I build web applications that are **clean, scalable, and production-ready**.
-> From UI to API, from idea to product 🚀
+## 💻 Tech Stack ⚡
 
----
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🧠 About Me
+</div>
 
-- 💻 Full-stack developer focused on **Web products**
-- ⚛️ Frontend: React, TypeScript, Tailwind
-- 🧩 Backend: NestJS, Node.js, REST APIs
-- 🗄 Databases: PostgreSQL, MongoDB
-- 🔐 Auth, performance, clean architecture enjoyer
-- 📈 Interested in **product thinking & system design**
+<!-- Snake Animation -->
+<div align="center">
 
----
+![snake gif](https://github.com/luongtangia/luongtangia/blob/output/github-snake-dark.svg)
 
-## 🛠 Tech Stack
+</div>
 
-### 🌐 Frontend
+<!-- Visit Counter -->
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+[![](https://visitcount.itsvg.in/api?id=luongtangia&icon=10&color=6)](https://visitcount.itsvg.in)
 
-### 🧩 Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-### 🗄 Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🚀 What I’m Focusing On
-
-- 🧱 Scalable **React + NestJS architectures**
-- 🔐 Authentication & authorization best practices
-- ⚡ Performance & DX optimization
-- 🧠 Product-oriented development mindset
-
----
-
-## 🌐 Connect With Me
-
-- 💼 GitHub: https://github.com/LuongTanGia
-- 📧 Email: luong1tan1gia123@gmail.com
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/LUONGTANGIA/LUONGTANGIA/output/github-contribution-grid-snake.svg)
-
-<!-- Dark mode -->
-
-![Snake animation](https://raw.githubusercontent.com/LUONGTANGIA/LUONGTANGIA/output/github-contribution-grid-snake-dark.svg)
-
----
-
-⭐ _If you like my work, consider giving a star — it motivates me a lot!_ 😄
+</div>
