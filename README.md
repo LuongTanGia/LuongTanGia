@@ -1,78 +1,63 @@
-# 👋 Hi, I'm DevLuong (Lương Tấn Gia)
+# 👋 Hi, I'm Gia 👨‍💻
 
-🚀 **Full-Stack Web Developer**  
-💻 JavaScript / TypeScript lover  
-🌱 Always learning, always building
+🚀 **Full-stack Web Developer** | ⚛️ React | 🧩 NestJS | 🏗 Product-driven mindset  
+
+> I build web applications that are **clean, scalable, and production-ready**.  
+> From UI to API, from idea to product 🚀
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Web Developer** with experience working on **company-wide product systems**.  
-Instead of single-feature projects, I mostly work on **large, long-term products**, collaborating across teams and continuously improving existing systems.
-
-- 🧠 Strong learning mindset, comfortable with new technologies
-- 🔧 Can work across Frontend & Backend
-- 🤝 Team player, but can also handle tasks independently
-- 📦 Familiar with maintaining and scaling existing products
+## 🧠 About Me
+- 💻 Full-stack developer focused on **Web products**
+- ⚛️ Frontend: React, TypeScript, Tailwind
+- 🧩 Backend: NestJS, Node.js, REST APIs
+- 🗄 Databases: PostgreSQL, MongoDB
+- 🔐 Auth, performance, clean architecture enjoyer
+- 📈 Interested in **product thinking & system design**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
-- React.js
-- TypeScript / JavaScript (ES6+)
-- Tailwind CSS
-- React Query / Axios
-- Vite
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ### 🧩 Backend
-- Node.js
-- NestJS
-- RESTful API
-- Authentication (JWT, Refresh Token, RBAC)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🗄 Database
-- MongoDB (Mongoose)
-- PostgreSQL
-- SQL Server
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### ⚙ Tools & Others
-- Git / GitHub
-- Docker (basic)
-- Linux / macOS / Windows
-- Cloudinary
-- Redis (basic caching)
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📌 Work Experience
-
-- ⏱ **2+ years** working on internal & external product systems
-- 🔄 Participated in multiple projects across the company
-- 🛠 Mostly worked on **existing products**: maintaining, improving, optimizing flows
-- 🚀 Actively propose improvements and better development workflows
-
----
-
-## 🎯 Career Goal
-
-- Become a **strong Full-Stack Engineer**
-- Build **scalable, clean, maintainable systems**
-- Work in an environment with:
-  - Clear product roadmap
-  - Professional workflow
-  - Growth opportunities
+## 🚀 What I’m Focusing On
+- 🧱 Scalable **React + NestJS architectures**
+- 🔐 Authentication & authorization best practices
+- ⚡ Performance & DX optimization
+- 🧠 Product-oriented development mindset
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: your-email@gmail.com  
-- 💼 GitHub: https://github.com/your-username  
-- 🌐 Portfolio (if any): coming soon 😉
+## 🌐 Connect With Me
+- 💼 GitHub: https://github.com/LuongTanGia
+- 📧 Email: luong1tan1gia123@gmail.com
 
 ---
 
-⭐ If you find my work interesting, feel free to connect or collaborate!
+## 🐍 Contribution Snake
+![snake animation](https://github.com/LuongTanGia/LuongTanGia/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ *If you like my work, consider giving a star — it motivates me a lot!* 😄
