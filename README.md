@@ -2,26 +2,25 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=luongtangia&theme=aura&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=LuongTanGia&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"
   width="55%"
 />
 
-<br/>
-
+<div align="center">
+<div align="center">
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=luongtangia&theme=aura&hide_border=true"
-  width="55%"
+  src="https://github-readme-streak-stats-iota-azure.vercel.app?user=LuongTanGia&theme=aura&hide_border=true"
+  width="50%"
 />
-
-<br/>
-
+</div>
+<div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongtangia&theme=aura&hide_border=true&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongTanGia&theme=aura&hide_border=true&layout=compact"
   width="40%"
 />
-
 </div>
-
+</div>
+</div>
 ---
 
 <!-- ===================== TECH STACK ===================== -->
