@@ -1,7 +1,11 @@
+# 👩🏻‍💻 DevLuong ( LuongTanGia )
+
+**`FullStack Dev`**
+
 <!-- ===================== STATS ===================== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=LuongTanGia&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"
     width="55%"
@@ -17,7 +21,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongTanGia&theme=aura&hide_border=true&layout=compact"
     width="40%"
   />
-</p>
+</p> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuongTanGia&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats-iota-azure.vercel.app?user=LuongTanGia&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongTanGia&theme=aura&hide_border=true&layout=compact" width="36%" /> </br>
+</div>
 
 ---
 
@@ -50,8 +60,3 @@
 </p>
 
 ---
-
-<!-- ===================== VISIT COUNTER ===================== -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=luongtangia&icon=10&color=6"/>
-</p>
